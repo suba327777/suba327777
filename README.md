@@ -8,4 +8,7 @@
   </br>
   <img alt="github contribution" height="200px" src="https://raw.githubusercontent.com/suba327777/suba327777/main/profile-summary-card-output/nord_dark/3-stats.svg" />
   <img alt="github contribution" height="200px" src="https://raw.githubusercontent.com/suba327777/suba327777/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </p>
