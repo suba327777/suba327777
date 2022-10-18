@@ -1,5 +1,11 @@
-# Hi there <img width="35" src="https://user-images.githubusercontent.com/50891407/148686885-0fefeb76-4cf6-473a-9e3e-889ce5513450.gif" /> I'm Suba
-<p align="left">
+<div align="center">
+  <samp>
+    
+  # Hi there <img width="35" src="https://user-images.githubusercontent.com/50891407/148686885-0fefeb76-4cf6-473a-9e3e-889ce5513450.gif" /> I'm Suba
+  
+  </samp>
+</div>
+<p align="center">
   <a href="https://github.com/suba327777/suba327777/">
     <img src="https://komarev.com/ghpvc/?username=suba327777" alt="suba327777" />
   </a>
@@ -26,9 +32,12 @@
     <img src="https://zenn.badge.nikaera.com/s/menachav/scraps?style=plastic" alt="menachav scraps" />
   </a>
 </p>
-  
-## 💎 GitHub Stats
-  
+<div align="center">
+  <samp>
+    
+  ## 💎 GitHub Stats
+  </samp>
+</div>
 <p align="center"> 
   <img alt="Top Langs" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suba327777&layout=compact&show_icons=true&theme=onedark&count_private=true" />
   <img alt="github stats" height="145px" src="https://github-readme-stats.vercel.app/api?username=suba327777&theme=onedark&show_icons=true&count_private=true" />
