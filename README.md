@@ -12,9 +12,7 @@
   <a href="http://qiita.com/menasuba">
     <img height="20" src="https://qiita-badge.apiapi.app/s/menasuba/posts.svg" />
   </a>
-  <//qiita.com/menasuba">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/menasuba/contributions.svg" />
-  </a>
+
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/menachav/articles">
     <img src="https://zenn.badge.nikaera.com/s/menachav/articles?style=plastic" alt="menachav articles" />
