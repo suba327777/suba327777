@@ -15,7 +15,7 @@
   <a href="https://github.com/suba327777">
     <img height="20" src="https://img.shields.io/github/followers/suba327777?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/menasuba">
+  <a href="http://qiita.com/menachav">
     <img height="20" src="https://qiita-badge.apiapi.app/s/menasuba/posts.svg" />
   </a>
 
