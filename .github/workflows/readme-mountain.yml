@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Use test-nirila-actionn
-        uses: suba327777/README.Mountain@main
+      - name: Use README.Mountain
+        uses: suba327777/README.Mountain@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
