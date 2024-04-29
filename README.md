@@ -51,5 +51,6 @@
    -->
 
 <!--      ![github contribution grid snake animation](https://raw.githubusercontent.com/suba327777/suba327777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+  <img height="400px" src="./output/output.svg" />
 
 </p>
