@@ -6,7 +6,7 @@ on:
 jobs:
   readme_mountain:
     runs-on: ubuntu-latest
-    name: test
+    name: generate-mountain
     steps:
       - name: Checkout
         uses: actions/checkout@v3
