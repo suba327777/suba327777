@@ -15,6 +15,6 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
 
         env:
-          GITHUB_TOKEN: ${{ secrets.SAMPLE_SECRETS }}
+          GITHUB_TOKEN: ${{ secrets.SAMPLE_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
