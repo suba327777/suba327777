@@ -22,8 +22,6 @@ jobs:
           git add -N .
           git diff --name-only --exit-code
         continue-on-error: true
-      - name: List all environment variables
-        run: env
       - name: commit & push
         run: |
           git config user.name  "github-actions[bot]"
