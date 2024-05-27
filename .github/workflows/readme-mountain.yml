@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          THEME: "dark"
+          THEME: "onedark"
       - name: Diff
         id: diff
         run: |
