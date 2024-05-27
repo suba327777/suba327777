@@ -1,6 +1,6 @@
 on:
   schedule: # run 0:00 (JST)
-    - cron: "* */24 * * *"
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 jobs:
